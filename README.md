@@ -4,7 +4,7 @@ and have some animation to see how generate each of the segments, to accelerate/
 "-" or "+" keys
 this implementacion have many inputs.
 
-the fast algorith of find 3 or more points collinear have o complexity of O((n^2)log(n))
+the fast algorithm of find 3 or more points collinear have o complexity of O((n^2)log(n))
 
 input100.txt
 
