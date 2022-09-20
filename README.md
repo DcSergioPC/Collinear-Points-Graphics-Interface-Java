@@ -3,7 +3,7 @@ This is an implementacion of at least 4 collinear points that use a graphics int
 and have some animation to see how generate each of the segments, to accelerate/decelerate the animation, only press the
 "-" or "+" keys, this implementacion have many inputs.
 
-the fast algorithm of find 3 or more collinears points have a complexity of O((n^2)log(n))\n
+the fast algorithm of find 3 or more collinears points have a complexity of O((n^2)log(n))<br />
 for this aplicacion use the algs4.jar libraries (StdDrawn)
 
 input100.txt
