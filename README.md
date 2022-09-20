@@ -4,7 +4,7 @@ and have some animation to see how generate each of the segments, to accelerate/
 "-" or "+" keys, this implementacion have many inputs.
 
 the fast algorithm of find 3 or more collinears points have a complexity of O((n^2)log(n))<br />
-for this aplicacion use the algs4.jar libraries (StdDrawn)
+for this aplicacion use the algs4.jar libraries (StdDraw)
 
 input100.txt
 
