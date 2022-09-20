@@ -1,7 +1,8 @@
 # Collinear-Points-Graphics-Interface-Java
 This is an implementacion of at least 4 collinear points that use a graphics interface to show these points
 and have some animation to see how generate each of the segments, to accelerate/decelerate the animation, only press the
-"-" or "+" keys and this implementacion have many inputs.
+"-" or "+" keys
+this implementacion have many inputs.
 
 the fast algorith of find 3 or more points collinear have o complexity of O((n^2)log(n))
 
